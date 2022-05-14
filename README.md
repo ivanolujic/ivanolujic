@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ivan Olujic
+- 👋 Hi, I'm Ivan Olujić
 - 👀 I’m interested in programming in VBA and Java
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me?
