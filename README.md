@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ivan Olujić
-- 👀 I’m interested in programming in VBA and Java
+- 👀 I’m interested in programming in VBA, Java and Python
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me?
   - email: ivan.olujic.os@gmail.com
